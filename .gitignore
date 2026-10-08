@@ -1,0 +1,4 @@
+*.mov
+*.mp4
+repo_bds/
+.DS_Store
